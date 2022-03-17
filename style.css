@@ -14,8 +14,9 @@ h1{
 }
 
 #msg{
-    height: 40px;
-    font-size: 40px;
+    color: red;
+    height: 100px;
+    font-size: 100px;
 	margin: 0px; padding: 10px;
 	background-color: lightgray;
 	text-align: center;
