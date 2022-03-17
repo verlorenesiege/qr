@@ -9,7 +9,8 @@ h1{
 
 #wrapper{
 	margin: 0px auto 0px auto;
-	width: 500px; height: auto;
+	/* width: 500px; */
+    height: auto;
 }
 
 #msg{
